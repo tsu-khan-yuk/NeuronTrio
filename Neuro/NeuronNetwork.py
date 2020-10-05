@@ -1,4 +1,4 @@
-from .Neuron import Neuron
+from Neuro.Neuron import Neuron
 
 
 class NeuralNetwork:
